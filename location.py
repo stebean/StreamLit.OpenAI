@@ -32,7 +32,7 @@ def location():
     places_result = places.places_nearby(
         location=(location["location"]["lat"], location["location"]["lng"]),
         radius=50000,
-        keyword="attractions",
+        keyword="atracciones",
     )
 
     # Mostrar todos los lugares turísticos en la ciudad con una imagen de cada lugar turístico
