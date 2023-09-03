@@ -1,0 +1,5 @@
+streamlit
+openai
+pyttsx3
+googlemaps
+streamlit_option_menu
