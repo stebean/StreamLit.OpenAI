@@ -7,7 +7,7 @@ StreamLit chatbot y ubicación.
 En la terminal:
 
 ```bash
-$ git clone https://github.com/estebansg1/StreamLit.OpenAI.git
+$ git clone https://github.com/stebean/StreamLit.OpenAI.git
 ```
 
 Librerias usadas en requirements.txt:
