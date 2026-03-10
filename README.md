@@ -25,6 +25,4 @@ Tambien se uso la API de google places para mostrar los lugares turisticos cerca
 <img src="img/location1.png"></img>
 <img src="img/location2.png"></img>
 
-Ejemplo usando un VPN para mostrar datos de diferentes ciudades.
-<img src="img/exampleUS.png"></img>
 
